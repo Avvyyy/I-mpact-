@@ -1,0 +1,16 @@
+*,
+*::after,
+*::before{
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+header img{
+    width: 20em;
+    height: 20em;
+    border-bottom-left-radius: 50px;
+    border-top-right-radius: 30px;
+}
