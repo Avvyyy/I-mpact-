@@ -3,7 +3,6 @@
 *::before{
     box-sizing: border-box;
     text-decoration: none;
-    list-style: none;
     padding: 0px;
     margin: 0px;
 }
@@ -13,4 +12,26 @@ header img{
     height: 20em;
     border-bottom-left-radius: 50px;
     border-top-right-radius: 30px;
+}
+
+.feature_card{
+    gap: 2em;
+}
+
+.card{
+    border-bottom-left-radius: 50px;
+    border-top-right-radius: 30px;
+}
+
+.card i,
+.card h3{
+    text-align: center;
+}
+
+.card h3{
+    font-size: 1.2rem;
+}
+
+.card i{
+    font-size: 3rem;
 }
