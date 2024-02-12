@@ -35,6 +35,7 @@ section{
 section h2{
     font-size: 2.5rem;
     padding: 1em;
+    text-align: center;
 }
 
 .feature_card{
@@ -68,8 +69,29 @@ section h2{
 
 .card h3{
     font-size: 1.2rem;
+    font-weight: 900;
 }
 
 .card i{
     font-size: 4rem;
+}
+
+.opportunity_section{
+    padding: 2em;
+    gap: 2em;
+}
+
+.opportunity_card a{
+    padding: 2em;
+    width: 80vw;
+    gap: 2em;
+    border-bottom: 1px solid #413938;
+    color: #413938;
+    text-decoration: none;
+}
+
+
+.opportunity_card img{
+    width: 20em;
+    height: 20em;
 }
