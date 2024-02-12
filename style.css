@@ -84,7 +84,7 @@ section h2{
 .opportunity_card a{
     padding: 2em;
     width: 80vw;
-    gap: 2em;
+    gap: 5em;
     border-bottom: 1px solid #413938;
     color: #413938;
     text-decoration: none;
@@ -94,4 +94,14 @@ section h2{
 .opportunity_card img{
     width: 20em;
     height: 20em;
+}
+
+.opportunity_card p{
+    word-wrap: break-word;
+    width: 25em;
+}
+
+footer{
+    background-color: #f0f0f0;
+    width: 100vw;
 }
