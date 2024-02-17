@@ -1,0 +1,107 @@
+{
+  "Competitions": [
+    {
+      "Competition Name": "Technovation Girls Challenge",
+      "Link": "https://technovationchallenge.org/get-started/",
+      "Objective": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus, illum?",
+      "Start Date": "17/02/2023",
+      "Deadline": ""
+    },
+		{
+      "Competition Name": "Rise Global Challenge",
+      "Link": "https://www.risefortheworld.org/apply-to-rise/",
+      "Objective": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus, illum?",
+      "Start Date": "17/02/2023",
+      "Deadline": ""
+    },
+		{
+      "Competition Name": "Moonshot Pirates Shape the Future Challenge",
+      "Link": "https://technovationchallenge.org/get-started/",
+      "Objective": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus, illum?",
+      "Start Date": "17/02/2023",
+      "Deadline": "16/02/30"
+    },
+		{
+      "Competition Name": "Moonshot Pirates BeAPirate Challenge",
+      "Link": "https://technovationchallenge.org/get-started/",
+      "Objective": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus, illum?",
+      "Start Date": "17/02/2023",
+      "Deadline": ""
+    }
+  ],
+
+  "Fellowships": [
+		{
+			"Fellowship Name": "Non-Trivial Fellowship",
+			"Link": "https://www.non-trivial.org/apply",
+			"Mission": "",
+			"Application Start Date": "12/02/23",
+			"Deadline": ""
+		},
+		{
+			"Fellowship Name": "Pineapple Labs Fellowship",
+			"Link": "https://form.typeform.com/to/JJera6oB?typeform-source=trypineapple.typeform.com",
+			"Mission": "",
+			"Application Start Date": "17/03/21",
+			"Deadline": ""
+		}
+	],
+
+	"Podcasts": [
+		{
+		"Podcast Host Organisation": "80,000 Hours Podcast",
+		"Host Organisation Link": "#",
+		"Podcast Name": "Toby Ord on the perils of maximising the good that you do",
+		"About": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus, illum?",
+		"Podcast Link": "https://open.spotify.com/episode/21n6Yocvha688u3cNYLWPu?si=a2a9bb98b8254e8d"
+	},
+	{
+		"Podcast Host Organisation": "Rationally Speaking Podcast",
+		"Host Organisation Link": "#",
+		"Podcast Name": "Is cash the best way to help the poor?(Michael Faye)",
+		"About": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus, illum?",
+		"Podcast Link": "https://open.spotify.com/episode/2CpEXCIncNx5bE14H7OVWY?si=2633f063ad3f4961"
+	}
+	],
+
+	"Forums": [
+		{
+			"Forum": "Open Philanthropy",
+			"Forum Purpose": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus, illum?",
+			"Forum Link": "#"
+		},
+		{
+			"Forum": "80,000 Hours Career Guide",
+			"Forum Purpose": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus, illum?",
+			"Forum Link": "#"
+		},
+		{
+			"Forum": "Effective Altruism",
+			"Forum Purpose": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus, illum?",
+			"Forum Link": "#"
+		},
+		{
+			"Forum": "Moonshot Pirates",
+			"Forum Purpose": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus, illum?",
+			"Forum Link": "#"
+		}
+	],
+
+	"Articles": [
+		{
+			"Article Organisation": "Open Philanthropy",
+			"Host Organisation": "Lorem, ",
+			"Host Organisation Link": "#",
+			"Article Name": "Lorem, ipsum ",
+			"About": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus, illum?",
+			"Article Link": "https://www.openphilanthropy.org/research/radical-empathy/"
+		},
+		{
+			"Article Name": "Advice for Ambitious Teenagers",
+			"Host Organisation": "Lorem, ipsum dol",
+			"Host Organisation Link": "#",
+			"About": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus, illum?",
+			"Article Link": "https://ldeming.posthaven.com/advice-for-ambitious-teenagers"
+		}
+	]
+}

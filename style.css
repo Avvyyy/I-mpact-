@@ -7,6 +7,9 @@
     margin: 0px;
 }
 
+button{
+    background-color: none;
+}
 header{
     background: url(../IMG/name_-gravity-_AdUs32i0jc-unsplash.jpg) no-repeat center;
     background-size: cover;
@@ -99,6 +102,16 @@ section h2{
 .opportunity_card p{
     word-wrap: break-word;
     width: 20em;
+}
+
+.nav-pills{
+    background-color: #f0f0f0;
+}
+
+.title,
+.subTitle{
+    color: #40831F;
+    text-decoration-color: #40831F;
 }
 
 footer{

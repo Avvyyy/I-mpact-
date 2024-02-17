@@ -15,13 +15,15 @@
       integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
       crossorigin="anonymous"
     ></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
     <link
       rel="stylesheet"
       href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css"
     />
     <link rel="stylesheet" href="style.css" />
+    <script src="index.js"></script>
   </head>
-  <body>
+  <body">
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
       <div class="container-fluid">
         <h2>I-mpact</h2>
@@ -56,6 +58,26 @@
         </div>
       </div>
     </nav>
+
+
+    <!-- Tabs for displaying the categories of social impact opportunities -->
+
+    <div class="nav nav-pills justify-content-evenly align-items-center me-auto ms-auto mt-4 border-4 border p-2" style="width: 50em; ">
+      <button type="button" class="nav-item competitions_button border-0">Competitions</button>
+      <button type="button" class="nav-item forums_button border-0">Forums</button>
+      <button type="button" class="nav-item articles_button border-0">Articles</button>
+      <button type="button" class="nav-item podcasts_button border-0">Podcasts</button>
+      <button type="button" class="nav-item fellowships_button border-0">Fellowships</button>
+    </div>
+
+    <div class="opportunityElements">
+      <div class="competitions m-3 p-2">
+      </div>
+      <div class="forums m-4 p-2"></div>
+      <div class="podcasts m-4 p-2"></div>
+      <div class="articles m-4 p-2"></div>
+      <div class="fellowships m-4 p-2"></div>
+    </div>
 
     <footer
       class="d-flex flex-row justify-content-evenly flex-wrap p-3"
@@ -114,5 +136,6 @@
         <p class="align-self-end">--Kailash Satyarthi</p>
       </blockquote>
     </footer>
+
   </body>
 </html>
