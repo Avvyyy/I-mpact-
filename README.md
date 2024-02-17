@@ -3,19 +3,19 @@
 I-mpact is a project geared towards supporting youth on their quest to social impact.
 It aims to support the theoretical knowledge of social impact that youth have with opportunities that drive youth to social impact.
 
-[I-mpact - check us out](https://i-mpact.vercel.app/)
-[View Our Code](https://github.com/Avvyyy/I-mpact-.git)
+- [I-mpact - check us out](https://i-mpact.vercel.app/)
+- [View Our Code](https://github.com/Avvyyy/I-mpact-.git)
 
 ## AUTHORS
 Favour Uzochukwu
-[Github](https://www.github.com/Avvyyy/)
-[LinkedIn](https://www.linkedin.com/in/favour-uzochukwu/)
-[Blog Article]()
+- [Github](https://www.github.com/Avvyyy/)
+- [LinkedIn](https://www.linkedin.com/in/favour-uzochukwu/)
+[- Blog Article]()
 
 Noble Kobby Attah
-[Github]()
-[LinkedIn]()
-[Blog Article]()
+- [Github]()
+- [LinkedIn]()
+- [Blog Article]()
 
 ## Installation
 ```git
