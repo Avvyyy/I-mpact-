@@ -108,10 +108,19 @@ section h2{
     background-color: #f0f0f0;
 }
 
+.opportunityElements>div>div{
+    width: 40vw;
+}
+
 .title,
 .subTitle{
     color: #40831F;
     text-decoration-color: #40831F;
+}
+
+.active{
+    color: #40831F;
+    font-weight: 600;
 }
 
 footer{
@@ -119,3 +128,13 @@ footer{
 }
 
 
+@media (max-width : 800px) {
+    .opportunityElements div{
+        flex-wrap: wrap;
+    }
+
+    .opportunityElements>div>div{
+        width: 100vw;
+    }
+    
+}

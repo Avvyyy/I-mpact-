@@ -10,7 +10,7 @@ It aims to support the theoretical knowledge of social impact that youth have wi
 Favour Uzochukwu
 - [Github](https://www.github.com/Avvyyy/)
 - [LinkedIn](https://www.linkedin.com/in/favour-uzochukwu/)
-[- Blog Article]()
+= [- Blog Article]()
 
 Noble Kobby Attah
 - [Github]()
@@ -28,8 +28,8 @@ Click on the project link at [I-mpact](https://i-mpact.vercel.app/). Check out o
 Sign Up/Login to get right back to where you started from.
 
 ## Licensing
-Images - [Unsplash](https://www.unsplash.com/)
-Social Impact Opportunities - [Google](https://www.google.com)
+- Images - [Unsplash](https://www.unsplash.com/)
+- Social Impact Opportunities - [Google](https://www.google.com)
 
 This idea is copyrighted 2024 - Favour and Kobby; The I-mpact Team
 
