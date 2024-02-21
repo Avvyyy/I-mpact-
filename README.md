@@ -10,11 +10,11 @@ It aims to support the theoretical knowledge of social impact that youth have wi
 Favour Uzochukwu
 - [Github](https://www.github.com/Avvyyy/)
 - [LinkedIn](https://www.linkedin.com/in/favour-uzochukwu/)
-= [- Blog Article]()
+= [- Blog Article](https://www.linkedin.com/posts/favour-uzochukwu_blogpost-project-activity-7166205677915303936-Euld?utm_source=share&utm_medium=member_desktop)
 
 Noble Kobby Attah
-- [Github]()
-- [LinkedIn]()
+- [Github](https://www.github.com/blacclikemee)
+- [LinkedIn](https://www.linkedin.com/nobleattah19)
 - [Blog Article]()
 
 ## Installation
